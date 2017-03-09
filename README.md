@@ -1,2 +1,2 @@
 # HelloWorld
-My GitHun Frist Project!
+My GitHub Frist Project!
